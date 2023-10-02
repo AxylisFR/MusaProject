@@ -1,2 +1,4 @@
 # MusaProject
-Musa Project colobaration between AxylisFR and Sakonori.
+Musa Project is a partnership between AxylisFR and Sakonori.
+
+- Contact us at musaproject@duck.com
